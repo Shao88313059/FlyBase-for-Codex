@@ -10,7 +10,7 @@ A Codex skill to use official FlyBase API and web pages. 一个教Codex如何用
 - Returns a verification table with status, evidence, FlyBase ID, and notes
 
 注意事项
-- 默认只假设使用 Drosophila melanogaster
+- 默认只假设使用 _Drosophila melanogaster_
 - Assumes _Drosophila melanogaster_ only as a fallback
 - 不推断人类同源基因功能或疾病相关性
 - Does not infer human ortholog function or disease relevance
