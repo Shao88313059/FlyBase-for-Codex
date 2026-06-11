@@ -15,6 +15,10 @@ A Codex skill to use official FlyBase API and web pages. 一个教Codex如何用
 - 不推断人类同源基因功能或疾病相关性
 - Does not infer human ortholog function or disease relevance
 
+使用方法/How to use
+- 直接告诉Codex让ta帮你安装，技能地址是: https://github.com/shaohy1012/FlyBase-for-Codex
+- Simply tell Codex to install it for you. The skill URL is: https://github.com/shaohy1012/FlyBase-for-Codex
+  
 参考/References
 - https://flybase.github.io/api/swagger-ui/
 - https://api.swaggerhub.com/apis/FlyBase/FlyBase/1.0
