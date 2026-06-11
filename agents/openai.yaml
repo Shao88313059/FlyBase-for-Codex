@@ -1,0 +1,4 @@
+interface:
+  display_name: "FlyBase for Codex"
+  short_description: "Verify Drosophila facts with FlyBase API evidence."
+  default_prompt: "Use $flybase-for-codex to verify this Drosophila gene information against FlyBase."
