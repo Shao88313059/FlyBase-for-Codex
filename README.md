@@ -1,7 +1,7 @@
 # FlyBase-for-Codex
 A Codex skill to use official FlyBase API and web pages. 一个教Codex如何用Flybase的Skill。 
 
-功能
+功能/What it does
 - 通过 FlyBase 官方 API 和网页核实基因、等位基因、品系、表型、表达、文献、GO 术语、直系同源等信息
 - Checks genes, alleles, stocks, phenotypes, expression, publications, GO terms, orthologs, etc.
 - 区分已验证事实与推测结论
@@ -9,7 +9,7 @@ A Codex skill to use official FlyBase API and web pages. 一个教Codex如何用
 - 输出表格，包含状态、证据来源、FlyBase ID 和备注
 - Returns a verification table with status, evidence, FlyBase ID, and notes
 
-注意事项
+注意事项/Notes
 - 默认只假设使用 _Drosophila melanogaster_
 - Assumes _Drosophila melanogaster_ only as a fallback
 - 不推断人类同源基因功能或疾病相关性
