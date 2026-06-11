@@ -1,6 +1,6 @@
 ---
 name: flybase-for-codex
-description: Verify Drosophila/FlyBase biological information with evidence-first workflows using the official FlyBase API and FlyBase web pages. Use when searching or validating fruit fly genes, alleles, stocks, phenotypes, expression, publications, GO terms, orthologs, datasets, sequences, or any claim involving FlyBase IDs such as FBgn, FBal, FBst, FBpp, FBtr, FBbt, FBcv, FBti, FBsf, or gene symbols.
+description: Verify Drosophila/FlyBase biological information with evidence-first workflows using the official FlyBase API and FlyBase web pages. Use this skill to deal with fruit fly/Drosophila related requests, e.g. searching or validating fruit fly genes, alleles, stocks, phenotypes, expression, publications, GO terms, orthologs, datasets, sequences, or any claim involving FlyBase IDs such as FBgn, FBal, FBst, FBpp, FBtr, FBbt, FBcv, FBti, FBsf, or gene symbols.
 ---
 
 # FlyBase for Codex
